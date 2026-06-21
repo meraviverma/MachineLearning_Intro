@@ -2,6 +2,11 @@
 
 ---
 
+## Link:
+- https://medium.com/data-science/all-you-need-to-know-about-gradient-boosting-algorithm-part-1-regression-2520a34a502
+- https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-2-classification-d3ed8f56541e/
+- https://www.youtube.com/watch?v=nMNiTZm-qY0&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=121
+
 ## 📌 Executive Summary
 Gradient Boosting is a **high‑performance boosting algorithm** widely recognized for superior results in complex modeling tasks.  
 Its core strategy is **Sequential Stage‑wise Addition**, where weak learners (typically decision trees) are added one after another to reduce residual errors.  
